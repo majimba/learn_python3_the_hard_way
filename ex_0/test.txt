@@ -1,1 +1,2 @@
 I'm committed to going through each exercise so yeah this is me doing exercise 0.
+https://www.w3schools.com/python/python_ref_list.asp website with list functions
